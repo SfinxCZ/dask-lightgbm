@@ -29,7 +29,7 @@ extras_require = {
 }
 
 setup(name='dask-lightgbm',
-      version='0.1.0',
+      version='0.1.0.dev0',
       description='Interactions between Dask and LightGBM',
       long_description=(io.open('README.md', encoding='utf-8').read()
                         if os.path.exists('README.md')
